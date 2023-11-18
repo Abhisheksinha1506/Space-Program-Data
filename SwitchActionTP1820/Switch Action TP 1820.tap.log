@@ -1,0 +1,285 @@
+
+LOG
+Switch Action TP 1820.tap created by procimage 1.03 on Sat Mar  3 13:26:44 2018
+
+
+
+-------------------------------------------
+Computron Inc. 7 track Even parity
+--------------------------------------------
+To:  L.F. Grant
+     SAT-IU
+     BLDG. 4201
+     MSFC
+     (REEL NO. 1820, 200 BPI)
+NAS8-25155, DRL-192, LINE ITEM J11
+SWITCH ACTION TABLE MAGNETIC TAPE
+AS-206, CURRENT CONFIGURATION
+DRWG. 40M67790-6, REV. AS, EO 2T-0038
+------------------------------------------------
+FROM:  GENERAL ELECTRIC COMPANY
+       SPACE DIVISION
+       APOLLO AND GROUND SYSTEMS
+       HUNTSVILLE, ALABAMA
+-----------------------------------------------
+JOB NUMBER CK40
+PROGRAMMER IRVING I
+SWITCH ACTION TP#
+ORIGINAL-A
+------------------------------------------------
+Certifier label date 8-1-72
+Earlier dates on label 10/23/70
+                       4-14-71
+------------------------------------------------
+
+-------------------------------------------
+32 x 132 bytes
+Filemark at block 44
+7 x 132 bytes
+Filemark at block 56
+13 x 132 bytes
+Filemark at block 75
+23 x 132 bytes
+Filemark at block 108
+11 x 132 bytes
+Filemark at block 124
+179 x 132 bytes
+Filemark at block 384
+94 x 132 bytes
+Filemark at block 522
+196 x 132 bytes
+Filemark at block 809
+11 x 132 bytes
+Filemark at block 825
+267 x 132 bytes
+Filemark at block 1212
+32 x 132 bytes
+Filemark at block 1259
+107 x 132 bytes
+Filemark at block 1416
+618 x 132 bytes
+Filemark at block 2322
+2 x 132 bytes
+Filemark at block 2325
+611 x 132 bytes
+Filemark at block 3213
+36 x 132 bytes
+Filemark at block 3266
+47 x 132 bytes
+Filemark at block 3334
+79 x 132 bytes
+Filemark at block 3450
+94 x 132 bytes
+Filemark at block 3588
+87 x 132 bytes
+Filemark at block 3714
+28 x 132 bytes
+Filemark at block 3755
+70 x 132 bytes
+Filemark at block 3858
+79 x 132 bytes
+Filemark at block 3972
+344 x 132 bytes
+Filemark at block 4471
+124 x 132 bytes
+Filemark at block 4650
+520 x 132 bytes
+Filemark at block 5410
+113 x 132 bytes
+Filemark at block 5575
+52 x 132 bytes
+Filemark at block 5651
+546 x 132 bytes
+Filemark at block 6450
+17 x 132 bytes
+Filemark at block 6475
+19 x 132 bytes
+Filemark at block 6503
+17 x 132 bytes
+Filemark at block 6528
+258 x 132 bytes
+Filemark at block 6906
+43 x 132 bytes
+Filemark at block 6968
+130 x 132 bytes
+Filemark at block 7159
+241 x 132 bytes
+Filemark at block 7511
+9 x 132 bytes
+Filemark at block 7524
+375 x 132 bytes
+Filemark at block 8071
+28 x 132 bytes
+Filemark at block 8112
+13 x 132 bytes
+Filemark at block 8131
+45 x 132 bytes
+Filemark at block 8197
+147 x 132 bytes
+Filemark at block 8413
+591 x 132 bytes
+Filemark at block 9277
+15 x 132 bytes
+Filemark at block 9299
+8 x 132 bytes
+Filemark at block 9311
+18 x 132 bytes
+Filemark at block 9338
+17 x 132 bytes
+Filemark at block 9362
+49 x 132 bytes
+Filemark at block 9434
+79 x 132 bytes
+Filemark at block 9550
+34 x 132 bytes
+Filemark at block 9600
+190 x 132 bytes
+Filemark at block 9877
+6 x 132 bytes
+Filemark at block 9886
+220 x 132 bytes
+Filemark at block 10202
+115 x 132 bytes
+Filemark at block 10367
+22 x 132 bytes
+Filemark at block 10399
+12 x 132 bytes
+Filemark at block 10417
+54 x 132 bytes
+Filemark at block 10496
+467 x 132 bytes
+Filemark at block 11181
+309 x 132 bytes
+Filemark at block 11634
+410 x 132 bytes
+Filemark at block 12234
+169 x 132 bytes
+Filemark at block 12481
+27 x 132 bytes
+Filemark at block 12521
+15 x 132 bytes
+Filemark at block 12543
+167 x 132 bytes
+Filemark at block 12788
+158 x 132 bytes
+Filemark at block 13018
+10 x 132 bytes
+Filemark at block 13033
+459 x 132 bytes
+Filemark at block 13703
+51 x 132 bytes
+Filemark at block 13777
+190 x 132 bytes
+Filemark at block 14056
+51 x 132 bytes
+Filemark at block 14131
+301 x 132 bytes
+Filemark at block 14572
+22 x 132 bytes
+Filemark at block 14603
+40 x 132 bytes
+Filemark at block 14661
+79 x 132 bytes
+Filemark at block 14777
+218 x 132 bytes
+Filemark at block 15092
+25 x 132 bytes
+Filemark at block 15127
+92 x 132 bytes
+Filemark at block 15259
+201 x 132 bytes
+Filemark at block 15553
+19 x 132 bytes
+Filemark at block 15581
+13 x 132 bytes
+Filemark at block 15600
+149 x 132 bytes
+Filemark at block 15819
+56 x 132 bytes
+Filemark at block 15900
+23 x 132 bytes
+Filemark at block 15934
+241 x 132 bytes
+Filemark at block 16286
+5 x 132 bytes
+Filemark at block 16293
+138 x 132 bytes
+Filemark at block 16492
+7 x 132 bytes
+Filemark at block 16502
+21 x 132 bytes
+Filemark at block 16533
+139 x 132 bytes
+Filemark at block 16737
+49 x 132 bytes
+Filemark at block 16809
+6 x 132 bytes
+Filemark at block 16818
+88 x 132 bytes
+Filemark at block 16947
+141 x 132 bytes
+Filemark at block 17150
+49 x 132 bytes
+Filemark at block 17221
+149 x 132 bytes
+Filemark at block 17436
+49 x 132 bytes
+Filemark at block 17506
+11 x 132 bytes
+Filemark at block 17522
+11 x 132 bytes
+Filemark at block 17538
+59 x 132 bytes
+Filemark at block 17625
+18 x 132 bytes
+Filemark at block 17651
+96 x 132 bytes
+Filemark at block 17790
+49 x 132 bytes
+Filemark at block 17862
+8 x 132 bytes
+Filemark at block 17874
+64 x 132 bytes
+Filemark at block 17967
+143 x 132 bytes
+Filemark at block 18174
+5 x 132 bytes
+Filemark at block 18181
+100 x 132 bytes
+Filemark at block 18323
+89 x 132 bytes
+Filemark at block 18451
+90 x 132 bytes
+Filemark at block 18581
+2 x 132 bytes
+Filemark at block 18584
+126 x 132 bytes
+Filemark at block 18765
+11 x 132 bytes
+Filemark at block 18781
+143 x 132 bytes
+Filemark at block 18988
+17 x 132 bytes
+Filemark at block 19013
+72 x 132 bytes
+Filemark at block 19117
+97 x 132 bytes
+Filemark at block 19260
+10 x 132 bytes
+Filemark at block 19275
+19 x 132 bytes
+Filemark at block 19303
+133 x 132 bytes
+Filemark at block 19496
+19 x 132 bytes
+Filemark at block 19524
+9 x 132 bytes
+Filemark at block 19537
+527 x 132 bytes
+Filemark at block 20295
+473 x 132 bytes
+Filemark at block 20985
+41 x 132 bytes
+Filemark at block 21044
+Filemark at block 21045
+21045 records/1905948 bytes processed.

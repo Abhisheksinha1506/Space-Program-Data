@@ -1,0 +1,3 @@
+There are several files in this archive.  The first is the SIMH .TAP file image.  Note that only 6 bits of each byte are used (7 track tape).  
+The second is the .log of the run.  
+The third is the contents of the tape, block by block, translated from IBM 6-bit BCDIC to ASCII txt.

@@ -1,0 +1,130 @@
+                         0001000101661204   1 2 2020 1530            1  
+C      *      *      *   *   *   720*      *   *  * * * * * *     *  2  
+CLWR1530   VESTA,12MIN,SM.AP.,LO-DISP  ZELLNER/MAY 21,1978           3  
+CCAM 2 IMAGE 1530        PROC VERSN 211 PARAM SET NO 8               4  
+C       NO LAMP-EXP TIME=719 SECS                                    5  
+                                                                     6  
+C                                                                    7  
+C                                                                    8  
+C                                                                    9  
+C78141074329*     *    **8   * 21*074330 CAMINIT                  * 10  
+                                 *                                * 11  
+C                                *                                * 12  
+C                                *                                * 13  
+C                                *                                * 14  
+C                                *083656 SPREP 2                  * 15  
+ 092642 EXPOBCM 2 12 0  MAXG NOL *                                * 16  
+C093851 EXPOSURE END TIME        *                                * 17  
+C                                *                                * 18  
+C094531   READ 2 LO SS 1 NORMAL  *                                * 19  
+C                                *                                * 20  
+                                 *                                * 21  
+C                                *                                * 22  
+C                                *                                * 23  
+C                                *                                * 24  
+C                                *                                * 25  
+ 094052 MODE LWH                 *                                * 26  
+C                                *                                * 27  
+C                                *                                * 28  
+C                                *                                * 29  
+C                                *                                * 30  
+                                 *                                * 31  
+C                                *                                * 32  
+C                                                                   33  
+C                                                                   34  
+C                                                                   35  
+ PSMGT* *  *ZELLNER         *   *   * *        * * * *              36  
+C170620*-151911*   *  * *    *     *         *    *       *   *     37  
+C                                                                   38  
+C                                                                   39  
+C                                                                   40  
+                                                                    41  
+C                                                                   42  
+C                                                                   43  
+C                                                                   44  
+C                                                                   45  
+                                                                    46  
+C                                                                   47  
+C                                                                   48  
+C                                                                   49  
+C                                                                   50  
+                                                                    51  
+C                                                                   52  
+C                                                                   53  
+C                                                                   54  
+C                                                                   55  
+                                                                    56  
+C                                                                   57  
+C                                                                   58  
+C                                                                   59  
+C                                                                   60  
+                                                                    61  
+C                                                                   62  
+C                                                                   63  
+C                                                                   64  
+C                                                                   65  
+                                                                    66  
+C                                                                   67  
+C                                                                   68  
+C                                                                   69  
+C                                                                   70  
+                                                                    71  
+C                                                                   72  
+C                                                                   73  
+C                                                                   74  
+C                                                                   75  
+   6 98 88    ad # F   H  (      <         f2   >  ]"d             u e2 
+e1    76  C e2       a2 e0y  a7u                      : # : #   ac l n n
+ p l  9e   \ \6   77  C# @ @ #####@   e&.  <'op  8a ec aa  a            
+     85 e3 A6 bb   bb       78  C   B2 ca    e6 e6              e6 a0= a
+0[ a0, a0 : ' " `  a0 "  a3("                 79  C}   e6               
+                                                80  C
+   98      j e1 $     98       }        e6           h                  
+    81  C! -                                                            
+    82  C                                                               
+    83  C                                                               
+    84  C                                                               
+    85  C
+            a4 81\  91        a9 ae    A2 ca    e6 e6  95  88  95  /    
+                86  C          f 80\ \        a9 ae    B2 ca    e6 e6 I 
+ 88  95  /                    87  C          f a2 91  91\       e6 ae   
+ B2 db    e6 e6  95  88  95  /                    88  C          f eb\ \
+        e6 ae<   B2 ca    e6 e6 " `  a0  /                    89  C     
+     f e0\ \        e6 ae<   B2 ca    e6 e6 " `  a0  /                  
+  90  C
+           f e2\ \        e6 ae    A2 ca    e6 e6  95  88  95  /  [     
+            91  C          f e2 91 \        e6 ae    A2 ca    e6 e6  95 
+ 88  95  /  [                 92  C                                     
+                              93  C                                     
+                              94  C                                     
+                              95  C
+                                                                    96  
+C                                                                   97  
+C                                                                   98  
+C                                                                   99  
+C                                                                  100  
+ *GEOMF   16:35Z MAY 31,'78                                            H
+C*********  GEOM. & PHOTOM. CORRECTED IMAGE  *********                  
+CPCF C/** DATA REC. 12 1   1   1 768 9216 5 2  6.1  5.0 2536   .00000 1P
+C          0       2303       4069       8008      10073      11878   1P
+C      15883      20149      24471      29391      34333      42032   1P
+      17.000     17.000     17.000     17.000     17.000     17.000   1P
+C     17.000     17.000     17.000     17.000     17.000     17.000   1P
+CTUBE   2 SEC EHT  6.1 ITT EHT  5.0 WAVELENGTH 2536 DIFFUSER 0        1P
+C     C     MODE : FACTOR   .283E 00                                  1P
+C*FICOR   16:35Z MAY 31,'78                                            H
+ ********  DATA FROM SMALL APERTURE  ********                           
+C********  DATA FROM SMALL APERTURE  ********                           
+C*EXTLOW   17:06Z MAY 31,'78                                           H
+C@EXTLOW :HT= 9, DC#=   1; ISN:     0 PSN      1 SIGS=  .307 SIGL=  .265
+CB 1= -.266830844221D 03 B 2=  .225982053009D 00 B 3=  .000000000000D 00
+ A 1= -.298879489603D 03 A 2=  .302397432558D 00 A 3=  .000000000000D 00
+C                                                                       
+C*CORWAV2   17:06Z MAY 31,'78                                          H
+C*ITOE   17:06Z MAY 31,'78                                             H
+C***** LINE-BY-LINE SPECTRUM, SPATIALLY RESOLVED *****                  
+ *ETOEM   17:06Z MAY 31,'78                                            H
+C*SAR   17:06Z MAY 31,'78                                              H
+L                                                                       
+                                                                        
+                                                                        

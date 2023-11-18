@@ -1,0 +1,34 @@
+
+LOG
+2090.tap created by procimage 1.03 on Sat Mar 17 17:26:06 2018
+
+
+
+-------------------------------------------
+Tape 2090, 10.5"  2400 ft BASF Computron
+556 bpi 7 track Even parity
+----------------------------------------
+L. F. GRANT
+PM-SAT-IU
+BLDG. 4201/RM. 308
+MSFC
+------------------------------------------
+SAVE LABEL stamped with "PRELIMINARY"
+12-28-71
+OUTPUT: 3 DR#: E MODE: M DEN: 5 PAR:E
+SWITCH DATA TP # 31.1
+----------------------------------------
+Label on Rear stamped OCT 23 1969, has written 7-2-71
+----------------------------------------------------
+Note that there is one single unrecoverable parity error noted in the log for 2090 Block 13508, the third byte is a "+", but should be a space. 
+That is, it's read as 0x30, but should be 0x10. It's not a transient error; it read the same way forward and backward several times.
+-------------------------------------------
+1 x 132 bytes
+Filemark at block 1
+10080 x 132 bytes
+Filemark at block 10082
+Block 13508, byte 2, parity error
+4320 x 132 bytes
+Filemark at block 14403
+Filemark at block 14404
+14404 records/1900932 bytes processed.

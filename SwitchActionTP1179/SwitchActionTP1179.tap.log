@@ -1,0 +1,351 @@
+
+LOG
+1179.tap created by procimage 1.03 on Fri Aug  3 21:04:27 2018
+
+
+
+-------------------------------------------
+-------------------------------------------
+7 track 200 bpi even parity 10.5" tape
+-------------------------------------------
+CONTRACT NAS8-25155
+DRL #192, LINE ITEM-J11
+SWITCH ACTION TABLE MAGNETIC TAPE
+SA-511 FRT
+REEL NO. 1179 (200 BPI)
+--------------------------------------------
+To:  L.F. GRANT
+PM-SAT-IU
+BLDG. 4201
+MSFC
+-------------------------------------------
+REEL NUMBER 1179
+SAVE LABEL MONTH 3 DAY 1 YEAR 72
+OUTPUT 4 DR# E MODE M DEN 2 PAR E
+JOB NUMBER CK50  PROGRAMMER IRVING I
+TITLE SWITCH ACTION TP #314.2
+FORM # OR NAME  ORIGINAL "A"
+------------------------------------------
+
+-------------------------------------------
+Block 0, byte 0, parity error
+Block 0, byte 1, parity error
+Block 0, byte 2, parity error
+Block 0, byte 3, parity error
+Block 0, byte 5, parity error
+Block 0, byte 6, parity error
+Block 0, byte 8, parity error
+Block 0, byte 10, parity error
+Block 0, byte 11, parity error
+Block 0, byte 12, parity error
+Block 0, byte 14, parity error
+Block 0, byte 15, parity error
+Block 0, byte 19, parity error
+Block 0, byte 23, parity error
+Block 0, byte 24, parity error
+Block 0, byte 28, parity error
+Block 0, byte 29, parity error
+Block 0, byte 30, parity error
+Block 0, byte 32, parity error
+Block 0, byte 34, parity error
+Block 0, byte 37, parity error
+Block 0, byte 39, parity error
+Block 0, byte 40, parity error
+Block 0, byte 41, parity error
+1 x 42 bytes
+8 x 132 bytes
+Filemark at block 13
+311 x 132 bytes
+Filemark at block 466
+Block 667, byte 6, parity error
+Block 667, byte 7, parity error
+Block 667, byte 10, parity error
+Block 667, byte 11, parity error
+Block 667, byte 18, parity error
+Block 667, byte 19, parity error
+Block 667, byte 27, parity error
+Block 667, byte 28, parity error
+Block 667, byte 29, parity error
+Block 667, byte 30, parity error
+Block 667, byte 35, parity error
+Block 667, byte 36, parity error
+Block 667, byte 37, parity error
+Block 667, byte 38, parity error
+Block 667, byte 40, parity error
+Block 667, byte 41, parity error
+Block 667, byte 45, parity error
+Block 667, byte 46, parity error
+Block 667, byte 47, parity error
+Block 667, byte 48, parity error
+Block 667, byte 49, parity error
+Block 667, byte 50, parity error
+Block 667, byte 51, parity error
+Block 667, byte 52, parity error
+Block 667, byte 53, parity error
+Block 667, byte 54, parity error
+Block 667, byte 55, parity error
+Block 667, byte 56, parity error
+Block 667, byte 57, parity error
+Block 667, byte 58, parity error
+Block 667, byte 59, parity error
+Block 667, byte 60, parity error
+Block 667, byte 76, parity error
+Block 667, byte 77, parity error
+Block 667, byte 84, parity error
+Block 667, byte 85, parity error
+Block 667, byte 86, parity error
+Block 667, byte 87, parity error
+Block 667, byte 90, parity error
+Block 667, byte 91, parity error
+Block 667, byte 93, parity error
+Block 667, byte 94, parity error
+137 x 132 bytes
+1 x 156 bytes
+67 x 132 bytes
+Filemark at block 765
+11 x 132 bytes
+Filemark at block 781
+Block 801, byte 64, parity error
+Block 801, byte 65, parity error
+91 x 132 bytes
+Filemark at block 914
+126 x 132 bytes
+Filemark at block 1097
+425 x 132 bytes
+Filemark at block 1716
+113 x 132 bytes
+Filemark at block 1881
+30 x 132 bytes
+Filemark at block 1925
+113 x 132 bytes
+Filemark at block 2088
+192 x 132 bytes
+Filemark at block 2369
+316 x 132 bytes
+Filemark at block 2831
+230 x 132 bytes
+Filemark at block 3166
+128 x 132 bytes
+Filemark at block 3353
+49 x 132 bytes
+Filemark at block 3425
+92 x 132 bytes
+Filemark at block 3559
+75 x 132 bytes
+Filemark at block 3669
+96 x 132 bytes
+Filemark at block 3810
+81 x 132 bytes
+Filemark at block 3928
+486 x 132 bytes
+Filemark at block 4640
+17 x 132 bytes
+Filemark at block 4665
+17 x 132 bytes
+Filemark at block 4690
+22 x 132 bytes
+Filemark at block 4722
+109 x 132 bytes
+Filemark at block 4882
+72 x 132 bytes
+Filemark at block 4986
+265 x 132 bytes
+Filemark at block 5375
+113 x 132 bytes
+Filemark at block 5541
+277 x 132 bytes
+Filemark at block 5946
+43 x 132 bytes
+Filemark at block 6009
+23 x 132 bytes
+Filemark at block 6043
+26 x 132 bytes
+Filemark at block 6082
+271 x 132 bytes
+Filemark at block 6478
+184 x 132 bytes
+Filemark at block 6744
+85 x 132 bytes
+Filemark at block 6869
+43 x 132 bytes
+Filemark at block 6931
+130 x 132 bytes
+Filemark at block 7122
+8 x 132 bytes
+Filemark at block 7134
+139 x 132 bytes
+Filemark at block 7337
+519 x 132 bytes
+Filemark at block 8093
+12 x 132 bytes
+Filemark at block 8111
+45 x 132 bytes
+Filemark at block 8175
+135 x 132 bytes
+Filemark at block 8372
+8 x 132 bytes
+Filemark at block 8384
+356 x 132 bytes
+Filemark at block 8903
+50 x 132 bytes
+Filemark at block 8976
+179 x 132 bytes
+Filemark at block 9235
+34 x 132 bytes
+Filemark at block 9285
+75 x 132 bytes
+Filemark at block 9394
+8 x 132 bytes
+Filemark at block 9406
+122 x 132 bytes
+Filemark at block 9585
+21 x 132 bytes
+Filemark at block 9615
+143 x 132 bytes
+Filemark at block 9825
+5 x 132 bytes
+Filemark at block 9832
+6 x 132 bytes
+Filemark at block 9841
+102 x 132 bytes
+Filemark at block 9989
+118 x 132 bytes
+Filemark at block 10159
+10 x 132 bytes
+Filemark at block 10174
+278 x 132 bytes
+Filemark at block 10579
+111 x 132 bytes
+Filemark at block 10741
+608 x 132 bytes
+Filemark at block 11628
+198 x 132 bytes
+Filemark at block 11916
+171 x 132 bytes
+Filemark at block 12166
+209 x 132 bytes
+Filemark at block 12471
+15 x 132 bytes
+Filemark at block 12493
+324 x 132 bytes
+Filemark at block 12968
+11 x 132 bytes
+Filemark at block 12984
+440 x 132 bytes
+Filemark at block 13626
+164 x 132 bytes
+Filemark at block 13866
+147 x 132 bytes
+Filemark at block 14081
+262 x 132 bytes
+Filemark at block 14465
+39 x 132 bytes
+Filemark at block 14522
+141 x 132 bytes
+Filemark at block 14729
+138 x 132 bytes
+Filemark at block 14930
+180 x 132 bytes
+Filemark at block 15193
+25 x 132 bytes
+Filemark at block 15229
+11 x 132 bytes
+Filemark at block 15245
+363 x 132 bytes
+Filemark at block 15774
+79 x 132 bytes
+Filemark at block 15888
+273 x 132 bytes
+Filemark at block 16288
+111 x 132 bytes
+Filemark at block 16450
+28 x 132 bytes
+Filemark at block 16491
+138 x 132 bytes
+Filemark at block 16694
+158 x 132 bytes
+Filemark at block 16924
+24 x 132 bytes
+Filemark at block 16959
+170 x 132 bytes
+Filemark at block 17208
+169 x 132 bytes
+Filemark at block 17456
+11 x 132 bytes
+Filemark at block 17472
+294 x 132 bytes
+Filemark at block 17896
+43 x 132 bytes
+Filemark at block 17959
+13 x 132 bytes
+Filemark at block 17978
+100 x 132 bytes
+Filemark at block 18124
+36 x 132 bytes
+Filemark at block 18177
+9 x 132 bytes
+Filemark at block 18190
+8 x 132 bytes
+Filemark at block 18202
+34 x 132 bytes
+Filemark at block 18251
+13 x 132 bytes
+Filemark at block 18270
+9 x 132 bytes
+Filemark at block 18283
+36 x 132 bytes
+Filemark at block 18336
+43 x 132 bytes
+Filemark at block 18399
+49 x 132 bytes
+Filemark at block 18471
+85 x 132 bytes
+Filemark at block 18594
+9 x 132 bytes
+Filemark at block 18606
+90 x 132 bytes
+Filemark at block 18737
+12 x 132 bytes
+Filemark at block 18754
+160 x 132 bytes
+Filemark at block 18986
+71 x 132 bytes
+Filemark at block 19086
+75 x 132 bytes
+Filemark at block 19195
+44 x 132 bytes
+Filemark at block 19257
+195 x 132 bytes
+Filemark at block 19540
+21 x 132 bytes
+Filemark at block 19570
+109 x 132 bytes
+Filemark at block 19728
+138 x 132 bytes
+Filemark at block 19928
+107 x 132 bytes
+Filemark at block 20084
+32 x 132 bytes
+Filemark at block 20130
+9 x 132 bytes
+Filemark at block 20143
+21 x 132 bytes
+Filemark at block 20174
+273 x 132 bytes
+Filemark at block 20571
+83 x 132 bytes
+Filemark at block 20693
+26 x 132 bytes
+Filemark at block 20731
+24 x 132 bytes
+Filemark at block 20765
+23 x 132 bytes
+Filemark at block 20799
+107 x 132 bytes
+Filemark at block 20956
+25 x 132 bytes
+Filemark at block 20992
+16 x 132 bytes
+Filemark at block 21016
+Filemark at block 21017
+21017 records/1901922 bytes processed.
